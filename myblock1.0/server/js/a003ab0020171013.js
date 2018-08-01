@@ -1,0 +1,2 @@
+/* 126.com_860x125_2 */
+google_ad_client = "ca-pub-8831771699398612";google_ad_slot = "6680494408";google_page_url=document.referrer;document.write('<scr'+'ipt type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></scr'+'ipt>');

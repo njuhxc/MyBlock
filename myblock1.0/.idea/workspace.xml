@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ee5cc92-f875-4245-82e8-56438604de94" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="myblock1.0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+              <folding>
+                <element signature="e#482#581#0" />
+                <element signature="e#618#724#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="background.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/background.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="42" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testProcessAST3.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/lib/testProcessAST3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="496" selection-start-line="496" selection-end-line="496" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="4" lean-forward="true" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/lib/writeFile.js" />
+        <option value="$PROJECT_DIR$/server/lib/judgeList.js" />
+        <option value="$PROJECT_DIR$/server/run_js/whiteList.txt" />
+        <option value="$PROJECT_DIR$/server/run_js/list.txt" />
+        <option value="$PROJECT_DIR$/server/run_js/testWrite.js" />
+        <option value="$PROJECT_DIR$/server/node_modules/esprima/esprima.js" />
+        <option value="$PROJECT_DIR$/server/run_js/server.js" />
+        <option value="$PROJECT_DIR$/content/background.js" />
+        <option value="$PROJECT_DIR$/server/lib/Classifier.js" />
+        <option value="G:/../../master/ADdetection/js/dirEntry3.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/server/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/server/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/css/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/css/node_modules/source-map-resolve/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/css/node_modules/source-map-resolve/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/css/node_modules/source-map-resolve/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/css/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/css/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/css/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/css/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/node_modules/optionator/node_modules/deep-is/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/node_modules/optionator/node_modules/fast-levenshtein/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/node_modules/optionator/node_modules/levn/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/node_modules/optionator/node_modules/prelude-ls/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/node_modules/optionator/node_modules/type-check/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/node_modules/optionator/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/node_modules/optionator/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/escodegen/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser-to-html/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/domhandler/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/htmlparser2/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/js-beautify/node_modules/config-chain/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/js-beautify/node_modules/config-chain/node_modules/proto-list/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/js-beautify/node_modules/config-chain/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/js-beautify/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/js-beautify/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/js-beautify/node_modules/nopt/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/js-beautify/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/js-beautify/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/deps/ejs/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/buffer-equal/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/difflet/node_modules/charm/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/difflet/node_modules/deep-is/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/difflet/node_modules/traverse/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/difflet/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/glob/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/glob/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/glob/node_modules/once/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/glob/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/nopt/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/traverse/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/runforcover/node_modules/bunker/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/runforcover/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/slide/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/node_modules/yamlish/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/node_modules/tap/package.json" />
+      <path value="$PROJECT_DIR$/server/node_modules/nodeunit/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myblock1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblock1.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="dirEntry3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="D:/nodejs/node" path-to-js-file="dirEntry3.js" working-dir="$PROJECT_DIR$/../../../master/ADdetection/js" />
+    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="D:/nodejs/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/server/run_js" />
+    <configuration name="testWrite.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="testWrite.js" working-dir="$PROJECT_DIR$/server/run_js" />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.testWrite.js" />
+      <item itemvalue="Node.js.server.js" />
+      <item itemvalue="Node.js.dirEntry3.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.dirEntry3.js" />
+        <item itemvalue="Node.js.testWrite.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ee5cc92-f875-4245-82e8-56438604de94" name="Default" comment="" />
+      <created>1510029469722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510029469722</updated>
+      <workItem from="1510029472457" duration="802000" />
+      <workItem from="1510038483918" duration="1083000" />
+      <workItem from="1510039822958" duration="1024000" />
+      <workItem from="1510040955897" duration="93000" />
+      <workItem from="1530520634272" duration="181000" />
+      <workItem from="1530520841903" duration="165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3348000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18594436" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44698206" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="42" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/testProcessAST3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12400">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/testProcessAST3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12400">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/testProcessAST3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/testProcessAST3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/testProcessAST3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/testProcessAST3.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/../../master/ADdetection/js/dirEntry3.js" />
+    <entry file="file://$PROJECT_DIR$/server/node_modules/esprima/esprima.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5711" selection-start-line="5711" selection-end-line="5711" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/Classifier.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/judgeList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="127" column="1" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/Classifier.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/judgeList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="127" column="1" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/Classifier.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/whiteList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/judgeList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="125" column="29" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/Classifier.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/whiteList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/list.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/judgeList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/Classifier.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/judgeList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="127" column="1" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/whiteList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/node_modules/esprima/esprima.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5711" selection-start-line="5711" selection-end-line="5711" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/Classifier.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/../../master/ADdetection/js/dirEntry3.js" />
+    <entry file="file://$PROJECT_DIR$/content/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="42" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/run_js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding>
+            <element signature="e#482#581#0" />
+            <element signature="e#618#724#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/testProcessAST3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="4" lean-forward="true" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
